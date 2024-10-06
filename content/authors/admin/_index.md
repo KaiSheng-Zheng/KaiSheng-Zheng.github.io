@@ -92,14 +92,22 @@ education:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Java
+        description: ''
+        percent: 90
+        icon: code-bracket
+      - name: Python, R
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Docker, Kubernetes
         description: ''
-        percent: 100
-        icon: chart-bar
+        percent: 80
+        icon: cloud
+      # - name: Data Science
+      #   description: ''
+      #   percent: 100
+      #   icon: chart-bar
       - name: SQL
         description: ''
         percent: 40
@@ -139,15 +147,27 @@ awards:
     awarder: iGEM Foundation
     icon: iGEM
     summary: |
-      I lead the model group of the team.
+      The silver medal is awarded to teams that achieve engineering success and complete human practice, and the excellence in model means it achieved the gold medal standard with the following rubrics:
+
+      · The modeling is impressive overall
+
+      · The model help the team understand a part, device, or system
+
+      · Use measurements of a part, device, or system to develop the model
+      
+      · Provide a good example of modeling approach for others
+      
+    # During the six months, I led the modeling team conducting domain research, selecting technical routes, and collaborating with the experimental team to perform experimental validation, modeling, and prediction. The competition taught me to cooperate with people from different backgrounds and honed my ability to quickly enter unfamiliar fields and identify suitable research questions.
   - title: Meritorious Winner of Interdisplinary Contest in Modeling (ICM)
     url: https://www.comap.com/contests/mcm-icm
-    certificate_url: 
+    # certificate_url: 
     date: '2024-05-01'
     awarder: The Consortium for Mathematics and its Applications (COMAP)
     icon: COMAP
     summary: |
-      Learned:
+      The Meritorious Winner is awarded to the top 10% of teams whose solution report was excellent in many aspects of modeling and problem-solving, analysis, conclusions, and communication. The report addressed all requirements in a clear, well-supported, well-organized, and well-presented manner.
+      
+    # From the competition, apart from the data collecting and cleaning, I learned how to identify the pivotal problem and select a suitable model through problem reduction. The process of using simulation annealing to predict the crime on World Bank and GIS data with R is facinating.
   # - title: 'Object-Oriented Programming in R'
   #   url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
   #   certificate_url: https://www.datacamp.com
