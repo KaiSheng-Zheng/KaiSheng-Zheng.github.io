@@ -37,9 +37,12 @@ sections:
       text: |-
         I am an undergraduate in Southern University of Science and Technology (SUSTech) studying computer science and technology.
 
-        I personally have some interest in several fields, such as distributed machine learning and model compression. Hopefully I can make some contribution on the build of [Computing Network](https://info.support.huawei.com/info-finder/encyclopedia/en/Computing+network.html).
+        I personally have some interest in several fields, such as distributed machine learning and model compression. Hopefully I can make some contribution on the build of <a href="https://info.support.huawei.com/info-finder/encyclopedia/en/Computing+network.html">Computing Network</a>.
 
-        Refer to my [personal resume](https://kaisheng-zheng.github.io/experience/) or [download it](https://kaisheng-zheng.github.io/uploads/resume.pdf).
+        Refer to my 
+        <a href="https://kaisheng-zheng.github.io/experience">personal resume</a> 
+        or 
+        <a href="https://kaisheng-zheng.github.io/uploads/resume.pdf">download it</a>.
     design:
       columns: '1'
   # - block: collection
