@@ -160,12 +160,22 @@ awards:
     # During the six months, I led the modeling team conducting domain research, selecting technical routes, and collaborating with the experimental team to perform experimental validation, modeling, and prediction. The competition taught me to cooperate with people from different backgrounds and honed my ability to quickly enter unfamiliar fields and identify suitable research questions.
   - title: Meritorious Winner of Interdisplinary Contest in Modeling (ICM)
     url: https://www.comap.com/contests/mcm-icm
-    # certificate_url: 
+    certificate_url: https://kaisheng-zheng.github.io/uploads/M_award_MCMICM.pdf
     date: '2024-05-01'
     awarder: The Consortium for Mathematics and its Applications (COMAP)
     icon: COMAP
     summary: |
       The Meritorious Winner is awarded to the top 10% of teams whose solution report was excellent in many aspects of modeling and problem-solving, analysis, conclusions, and communication. The report addressed all requirements in a clear, well-supported, well-organized, and well-presented manner.
+
+      I was responsible to implement a risk terrain mapping based on random forest to quantify the influential factors effect on the number of illegal wild-life trading with <a href="https://datatopics.worldbank.org/world-development-indicators/">World Bank WDI dataset </a>, 
+      <a href="https://www.naturalearthdata.com/downloads/">global GIS data </a>
+      and 
+      <a href="https://wildlifetradeportal.org/incidents"wildlife seizure and incident data </a>
+      .
+
+      You may want to check the 
+      <a href="https://kaisheng-zheng.github.io/uploads/ICM_paper.pdf">paper snippet </a>
+      mainly developed by me.
       
     # From the competition, apart from the data collecting and cleaning, I learned how to identify the pivotal problem and select a suitable model through problem reduction. The process of using simulation annealing to predict the crime on World Bank and GIS data with R is facinating.
   # - title: 'Object-Oriented Programming in R'
