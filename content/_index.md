@@ -37,7 +37,7 @@ sections:
       text: |-
         I am an undergraduate in Southern University of Science and Technology (SUSTech) studying computer science and technology.
 
-        I personally have some interest in several fields, such as distributed machine learning and model compression. Hopefully I can make some contribution on the build of <a href="https://info.support.huawei.com/info-finder/encyclopedia/en/Computing+network.html">Computing Network</a>.
+        I personally have some interest in several fields, such as distributed machine learning, model compression and facial tracking in VR.
 
         Refer to my 
         <a href="https://kaisheng-zheng.github.io/experience">personal resume</a> 
@@ -63,10 +63,10 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: false
+        featured_only: true
     design:
       view: article-grid
-      columns: 1
+      columns: '1'
   # - block: collection
   #   content:
   #     title: Recent Publications
