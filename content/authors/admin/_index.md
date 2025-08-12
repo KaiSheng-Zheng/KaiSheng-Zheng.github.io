@@ -63,29 +63,33 @@ education:
       - Artificial Intelligence
       - Distributed and Cloud Computing
       - ...
-# work:
-#   - position: Director of Cloud Infrastructure
-#     company_name: GenCoin
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2021-01-01
-#     date_end: ''
-#     summary: |2-
-#       Responsibilities include:
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - position: Backend Software Engineer
-#     company_name: X
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2016-01-01
-#     date_end: 2020-12-31
-#     summary: |
-#       Responsibilities include:
-#       - Migrated infrastructure to a new data center
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+internship:
+  - position: Machine Learning Engineer
+    company_name: Anker Innovations
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-04-06
+    date_end: 2025-07-14
+    summary: |2-
+      Responsibilities include:
+      - Evaluated SLAM and image-matching models.
+      - Integrated image matching model and SLAM front-end for optimization under lawn envi-
+      ronment with fisheye camera, reducing trajectory drift and re-localization failure during
+      sharp turns in real scenario.
+  # - position: Backend Software Engineer
+  #   company_name: X
+  #   company_url: ''
+  #   company_logo: ''
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     Responsibilities include:
+  #     - Migrated infrastructure to a new data center
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+publications:
+  
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -190,5 +194,5 @@ awards:
 
 ## About Me
 
-Zheng Kai Sheng is an underguraduate in Southern University of Science and Technology.
+Zheng Kai Sheng is an underguraduate in Southern University of Science and Technology. He is currently pursuing Msc in AI in Chinese University of Hong Kong.
 <!-- His research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
