@@ -45,17 +45,17 @@ sections:
         <a href="https://kaisheng-zheng.github.io/uploads/resume.pdf">download it</a>.
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: '1'
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: '1'
   # - block: collection
   #   id: experience
   #   content:
