@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am an undergraduate in Southern University of Science and Technology (SUSTech) studying computer science and technology.
+        I am a graduate student in Chinese University of Hong Kong studying MLLM.
 
-        I personally have some interest in several fields, such as distributed machine learning, model compression and facial tracking in VR.
+        I personally have some interest in several fields, such as applications of MLLM, video understanding, inference acceleration.
 
         Refer to my
         <a href="https://kaisheng-zheng.github.io/experience">personal resume</a>
