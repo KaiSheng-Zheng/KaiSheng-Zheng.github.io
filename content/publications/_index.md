@@ -1,6 +1,8 @@
 ---
 title: Publications
 cms_exclude: true
+aliases:
+  - /publication/
 
 # View.
 view: citation

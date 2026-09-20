@@ -1,0 +1,112 @@
+schema: hugoblox/author/v1
+slug: admin
+is_owner: true
+name:
+  display: 郑凯晟
+  given: Kai Sheng
+  family: Zheng
+  alternate: ''
+  pronunciation: Zheng Kai Sheng
+  pronouns: ''
+postnominals: []
+status:
+  icon: ""
+role: Undergraduate
+bio: |
+  Zheng Kai Sheng is an undergraduate in Southern University of Science and Technology. He is currently pursuing Msc in AI in Chinese University of Hong Kong.
+
+affiliations:
+  - name: Southern University of Science and Technology
+    url: https://www.sustech.edu.cn/en/
+
+links:
+  - icon: at-symbol
+    url: mailto:12110722@mail.sustech.edu.cn
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/KaiSheng-Zheng
+
+interests:
+  - Artificial Intelligence
+
+education:
+  - degree: BEng Computer Science and Technology
+    institution: Southern University of Science and Technology
+    year: "2021 – 2025"
+    start: 2021-09-01
+    end: 2025-07-01
+    summary: |
+      GPA: 3.6/4.0
+
+      Courses included:
+      - Mathematical Analysis
+      - Software Engineering
+      - Artificial Intelligence
+      - Distributed and Cloud Computing
+      - ...
+
+experience:
+  - role: Machine Learning Engineer
+    org: Anker Innovations
+    start: 2025-04-06
+    end: 2025-07-14
+    summary: |
+      Responsibilities include:
+      - Evaluated SLAM and image-matching models.
+      - Integrated image matching model and SLAM front-end for optimization under lawn environment with fisheye camera, reducing trajectory drift and re-localization failure during sharp turns in real scenario.
+
+skills:
+  - name: Technical Skills
+    items:
+      - label: Java
+        level: 5
+      - label: Python, R
+        level: 4
+      - label: Docker, Kubernetes
+        level: 4
+      - label: SQL
+        level: 2
+  - name: Hobbies
+    items:
+      - label: Blog
+        level: 3
+
+languages:
+  - name: Chinese
+    level: 5
+    label: Native
+  - name: English
+    level: 4
+    label: Fluent
+
+awards:
+  - title: Silver Medal of the 20th Internationally Genetic Engineered Machine (iGEM) Competition
+    url: https://igem.org/
+    date: '2023-11-05'
+    awarder: iGEM Foundation
+    icon: brands/iGEM
+    summary: |
+      The silver medal is awarded to teams that achieve engineering success and complete human practice, and the excellence in model means it achieved the gold medal standard with the following rubrics:
+
+      · The modeling is impressive overall
+
+      · The model help the team understand a part, device, or system
+
+      · Use measurements of a part, device, or system to develop the model
+
+      · Provide a good example of modeling approach for others
+
+      [Certificate](https://projects.igem.org/2023/sustech-oce)
+  - title: Meritorious Winner of Interdisplinary Contest in Modeling (ICM)
+    url: https://www.comap.com/contests/mcm-icm
+    date: '2024-05-01'
+    awarder: The Consortium for Mathematics and its Applications (COMAP)
+    icon: brands/COMAP
+    summary: |
+      The Meritorious Winner is awarded to the top 10% of teams whose solution report was excellent in many aspects of modeling and problem-solving, analysis, conclusions, and communication. The report addressed all requirements in a clear, well-supported, well-organized, and well-presented manner.
+
+      I was responsible to implement a risk terrain mapping based on random forest to quantify the influential factors effect on the number of illegal wild-life trading with [World Bank WDI dataset](https://datatopics.worldbank.org/world-development-indicators/), [global GIS data](https://www.naturalearthdata.com/downloads/) and [wildlife seizure and incident data](https://wildlifetradeportal.org/incidents).
+
+      You may want to check the [paper snippet](https://kaisheng-zheng.github.io/uploads/ICM_paper.pdf) mainly developed by me.
+
+      [Certificate](https://kaisheng-zheng.github.io/uploads/M_award_MCMICM.pdf)
