@@ -41,8 +41,10 @@ sections:
 
         Refer to my
         <a href="https://kaisheng-zheng.github.io/experience">personal resume</a>
-        or
-        <a href="https://kaisheng-zheng.github.io/uploads/resume.pdf">download it</a>.
+        or download the
+        <a href="https://kaisheng-zheng.github.io/uploads/resume.pdf">English CV</a>
+        /
+        <a href="https://kaisheng-zheng.github.io/uploads/resume-zh.pdf">中文简历</a>.
     design:
       columns: '1'
   # - block: collection
